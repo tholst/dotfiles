@@ -2,7 +2,6 @@
 ############################
 # This script creates symlinks from the home directory to any desired dotfiles in ${homedir}/dotfiles
 # And also installs Homebrew Packages
-# And sets Sublime preferences
 ############################
 
 if [ "$#" -ne 1 ]; then
@@ -34,6 +33,3 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 
 # Run the Homebrew Script
 ./brew.sh
-
-# Run the Sublime Script
-./sublime.sh
