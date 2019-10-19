@@ -1,4 +1,4 @@
-# Simplified dotfile for video recordings
+export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # Load dotfiles:
 for file in ~/.{bash_prompt,aliases,private}; do
