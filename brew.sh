@@ -26,6 +26,7 @@ brew cask install soundflower
 brew cask install soundflowerbed
 # brew cask install hyperdock
 # brew cask install divvy
+brew install watch
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
