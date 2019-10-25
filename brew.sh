@@ -3,6 +3,8 @@
 # Install Brew Packages
 brew install python
 brew install tree
+brew install watch
+brew install node
 
 # Install MacOS Applications
 brew cask install google-chrome
@@ -26,7 +28,6 @@ brew cask install soundflower
 brew cask install soundflowerbed
 # brew cask install hyperdock
 # brew cask install divvy
-brew install watch
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
