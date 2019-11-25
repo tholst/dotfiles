@@ -5,6 +5,7 @@ brew install python
 brew install tree
 brew install watch
 brew install node
+brew install pdfgrep
 
 # Install MacOS Applications
 brew cask install google-chrome
