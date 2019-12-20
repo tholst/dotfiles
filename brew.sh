@@ -6,6 +6,8 @@ brew install tree
 brew install watch
 brew install node
 brew install pdfgrep
+brew install pandoc
+
 
 # Install MacOS Applications
 brew cask install google-chrome
