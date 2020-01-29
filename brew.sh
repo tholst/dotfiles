@@ -29,6 +29,8 @@ brew cask install macpass
 brew cask install cryptomator
 brew cask install soundflower
 brew cask install soundflowerbed
+brew cask install monitorcontrol
+brew cask install iterm2
 # brew cask install hyperdock
 # brew cask install divvy
 
