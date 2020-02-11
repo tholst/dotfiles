@@ -7,6 +7,7 @@ brew install watch
 brew install node
 brew install pdfgrep
 brew install pandoc
+brew install go
 
 
 # Install MacOS Applications

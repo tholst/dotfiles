@@ -14,3 +14,6 @@ fi
 # Setting PATH for Python 3.7
 # PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
 # export PATH
+
+test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
+
