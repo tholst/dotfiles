@@ -17,3 +17,5 @@ fi
 
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
 
+# Setting workspace path for Go
+export GOPATH=”$HOME/dev/go/__workspace”
