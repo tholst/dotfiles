@@ -34,6 +34,7 @@ brew cask install monitorcontrol
 brew cask install iterm2
 # brew cask install hyperdock
 # brew cask install divvy
+brew cask install slack
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
