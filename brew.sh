@@ -8,6 +8,7 @@ brew install node
 brew install pdfgrep
 brew install pandoc
 brew install go
+brew install yarn
 
 
 # Install MacOS Applications
