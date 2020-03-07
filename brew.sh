@@ -9,6 +9,7 @@ brew install pdfgrep
 brew install pandoc
 brew install go
 brew install yarn
+brew install bash-completion
 
 
 # Install MacOS Applications
