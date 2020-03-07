@@ -33,3 +33,8 @@ curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-co
 
 # Run the Homebrew Script
 ./brew.sh
+
+# Download Docker Auto-Completion
+curl -L https://raw.githubusercontent.com/docker/compose/1.25.4/contrib/completion/bash/docker-compose -o /usr/local/etc/bash_completion.d/docker-compose
+curl -L https://raw.githubusercontent.com/docker/machine/v0.16.0/contrib/completion/bash/docker-machine.bash -o `brew --prefix`/etc/bash_completion.d/docker-machine
+curl -L https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o `brew --prefix`/etc/bash_completion.d/docker
