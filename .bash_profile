@@ -15,6 +15,17 @@ fi
 # PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
 # export PATH
 
+# Setting PATH and JAVA_HOME for GraalVM (but putting /usr/local/bin in front of it, so we won't use GraalVM's bundled node.js engine)
+GRAALVM_HOME="/Library/Java/JavaVirtualMachines/graalvm-ce-java11-19.3.1/Contents/Home"
+if [ -d $GRAALVM_HOME ]; then
+    export GRAALVM_HOME
+    JAVA_HOME=$GRAALVM_HOME
+    export JAVA_HOME
+    PATH="${GRAALVM_HOME}/bin:${PATH}"
+    PATH="/usr/local/bin:${PATH}"
+    export PATH
+fi
+
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
  . $(brew --prefix)/etc/bash_completion
 fi
