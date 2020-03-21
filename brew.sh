@@ -10,6 +10,7 @@ brew install pandoc
 brew install go
 brew install yarn
 brew install bash-completion
+brew install maven
 
 
 # Install MacOS Applications
