@@ -45,3 +45,6 @@ brew cask install postman
 brew tap homebrew/cask-fonts
 brew cask install font-source-code-pro
 
+# mongoDB shell
+brew tap mongodb/brew
+brew install mongodb-community-shell
