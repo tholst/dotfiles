@@ -32,14 +32,18 @@ brew cask install the-unarchiver
 brew cask install dropbox
 brew cask install macpass
 brew cask install cryptomator
-brew cask install soundflower
-brew cask install soundflowerbed
+# brew cask install soundflower
+# brew cask install soundflowerbed
 brew cask install monitorcontrol
 brew cask install iterm2
 # brew cask install hyperdock
 # brew cask install divvy
 brew cask install slack
 brew cask install postman
+
+brew cask install balenaetcher
+brew cask install sdformatter
+brew install f3
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
