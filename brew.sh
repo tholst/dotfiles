@@ -41,6 +41,8 @@ brew cask install iterm2
 brew cask install slack
 brew cask install postman
 
+brew cask install tunnelblick
+
 brew cask install balenaetcher
 brew cask install sdformatter
 brew install f3
