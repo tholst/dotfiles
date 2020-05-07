@@ -54,3 +54,4 @@ brew cask install font-source-code-pro
 # mongoDB shell
 brew tap mongodb/brew
 brew install mongodb-community-shell
+brew cask install mongodb-compass
