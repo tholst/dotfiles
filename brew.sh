@@ -12,6 +12,8 @@ brew install yarn
 brew install bash-completion
 brew install maven
 brew install gradle
+brew install ffmpeg
+brew install youtube-dl
 
 
 # Install MacOS Applications
