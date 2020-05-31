@@ -29,6 +29,7 @@ brew cask install whatsapp
 brew cask install skype
 brew cask install gimp
 brew cask install vlc
+brew cask install iina
 brew cask install rectangle
 brew cask install the-unarchiver
 brew cask install dropbox
