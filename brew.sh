@@ -14,6 +14,7 @@ brew install maven
 brew install gradle
 brew install ffmpeg
 brew install youtube-dl
+brew install iperf3
 
 
 # Install MacOS Applications
