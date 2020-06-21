@@ -21,6 +21,7 @@ brew install iperf3
 brew cask install google-chrome
 brew cask install firefox
 brew cask install visual-studio-code
+brew cask install intellij-idea
 # brew cask install virtualbox
 # brew cask install sourcetree
 brew cask install spotify
