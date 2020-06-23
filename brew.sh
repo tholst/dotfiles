@@ -15,6 +15,7 @@ brew install gradle
 brew install ffmpeg
 brew install youtube-dl
 brew install iperf3
+brew install jq
 
 
 # Install MacOS Applications
