@@ -61,3 +61,5 @@ brew cask install font-source-code-pro
 brew tap mongodb/brew
 brew install mongodb-community-shell
 brew cask install mongodb-compass
+
+brew cask install mockoon
