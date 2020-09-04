@@ -63,3 +63,4 @@ brew install mongodb-community-shell
 brew cask install mongodb-compass
 
 brew cask install mockoon
+brew cask install menumeters
