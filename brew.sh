@@ -64,3 +64,5 @@ brew cask install mongodb-compass
 
 brew cask install mockoon
 brew cask install menumeters
+
+brew cask install karabiner-elements
