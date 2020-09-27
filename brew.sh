@@ -66,3 +66,5 @@ brew cask install mockoon
 brew cask install menumeters
 
 brew cask install karabiner-elements
+
+brew cask install libreoffice
