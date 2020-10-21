@@ -68,3 +68,4 @@ brew cask install menumeters
 brew cask install karabiner-elements
 
 brew cask install libreoffice
+brew cask install figma
