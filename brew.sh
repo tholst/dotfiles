@@ -27,7 +27,7 @@ brew cask install intellij-idea-ce
 # brew cask install sourcetree
 brew cask install spotify
 brew cask install whatsapp
-# brew cask install discord
+brew cask install discord
 # brew cask install google-backup-and-sync
 brew cask install skype
 brew cask install gimp
