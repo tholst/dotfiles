@@ -69,3 +69,5 @@ brew cask install karabiner-elements
 
 brew cask install libreoffice
 brew cask install figma
+
+brew cask install graphql-playground
