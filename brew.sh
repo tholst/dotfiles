@@ -10,6 +10,8 @@ brew install pandoc
 brew install go
 brew install yarn
 brew install bash-completion
+brew install kubectx
+brew install fzf
 brew install maven
 brew install gradle
 brew install ffmpeg
@@ -69,3 +71,5 @@ brew cask install karabiner-elements
 
 brew cask install libreoffice
 brew cask install figma
+
+brew tap johanhaleby/kubetail && brew install kubetail

@@ -3,6 +3,9 @@ alias ch='history | grep "git commit"'
 alias hg='history | grep'
 
 alias g='git'
+alias k='kubectl'
+alias kt='kubetail'
+alias kns='kubens'
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
