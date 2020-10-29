@@ -73,3 +73,5 @@ brew cask install libreoffice
 brew cask install figma
 
 brew tap johanhaleby/kubetail && brew install kubetail
+
+brew cask install graphql-playground
